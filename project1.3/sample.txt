@@ -1,0 +1,6 @@
+CA,English,28,261.96
+CA,English,23,148.86
+CA,English,18,76.5
+CN,English,49,80
+CN,Spanish,60,114.9
+CN,Spanish,23,22.72
